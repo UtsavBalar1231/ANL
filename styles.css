@@ -1,0 +1,44 @@
+body {
+  font-family: "Liberation Sans", serif;
+  font-size: 12pt;
+  line-height: 1.5;
+  margin: 2cm;
+}
+
+h1,
+h2,
+h3 {
+  color: #2a2a2a;
+  font-weight: bold;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 3px;
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  border-radius: 3px;
+}
+
+pre {
+  background-color: #eee;
+  padding: 10px;
+  border-left: 4px solid #ccc;
+  overflow-x: auto;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 90%;
+}
+
+figure {
+  text-align: center;
+  margin: 10px 0;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 10pt;
+  color: #555;
+}
